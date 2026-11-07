@@ -2,6 +2,8 @@
 
 Software engineer with **20+ years** building business systems, data platforms, and full-stack products.
 
+**Products & portfolio:** [kamihadad.com](https://kamihadad.com)
+
 PostgreSQL · Node.js · Python · React/TypeScript · Power BI · SSRS · QlikView · Delphi
 
 ---
@@ -26,6 +28,8 @@ PostgreSQL · Node.js · Python · React/TypeScript · Power BI · SSRS · QlikV
 - [`KAMImmigration`](https://github.com/kamihadadg/KAMImmigration) — immigration workflow
 - [`KAMHRM`](https://github.com/kamihadadg/KAMHRM) — HRM
 - [`KAMBASE`](https://github.com/kamihadadg/KAMBASE) — project base template
+
+More products on **[kamihadad.com](https://kamihadad.com)**.
 
 ---
 
