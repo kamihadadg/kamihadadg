@@ -1,4 +1,4 @@
-﻿# Kamran
+# Kamran
 
 Software engineer with **20+ years** building business systems, data platforms, and full-stack products.
 
